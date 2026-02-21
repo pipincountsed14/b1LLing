@@ -7,7 +7,7 @@ s
 x
 zgs
 s
-sss
+ssss
 sxxss
 ss
 ss
