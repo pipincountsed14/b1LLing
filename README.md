@@ -6,7 +6,7 @@ ysf
 s
 x
 zgs
-sss
+ssss
 ssss
 sxxss
 ss
